@@ -1,0 +1,16 @@
+{
+    "name": "youtuberry-server",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "body-parser": "^1.19.0",
+      "express": "^4.17.1",
+      "mongoose": "^5.12.3",
+      "googleapis": "^39.2.0"
+    }
+  }
+  
