@@ -1,2 +1,4 @@
 .DS_Store
 gitconfig
+.env
+node_modules
